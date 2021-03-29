@@ -1,0 +1,70 @@
+header
+{
+	background: radial-gradient(ellipse,orange,blue,forestgreen,grey);
+	padding:20px;
+	text-align: center;
+	color: gold;
+	top:0px;
+}
+html
+{
+	margin-top: 0px;
+}
+nav a
+{
+	background: linear-gradient(45deg,silver,cyan,yellow);
+	margin-left: 20px;
+     text-align: center;
+}
+nav
+{
+	background-color: skyblue;
+	padding: 25px;
+	margin-top:0px;
+}
+aside
+{
+	background:grey;
+	width: 200px;
+	height:700px;
+	float: left;
+	position: sticky;
+	top:0px;
+	text-align: center;
+}
+aside a
+{
+	display:block;
+	padding:25px;
+	margin: 30px;
+
+	
+
+}
+aside a:hover
+{
+	background:linear-gradient(45deg,pink,cyan,black);
+	border-radius: 10px;
+	color: white;
+}
+div
+{
+background-color: white;
+width:1500px;
+height: 300px;
+}
+section
+{
+	display: inline-block;
+	width: 300px;
+	height: 200px;
+	margin-top: 0px;
+	margin-left: 20px;
+
+}
+p
+{
+ 
+}
+
+
